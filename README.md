@@ -7,10 +7,10 @@ Esse projeto foi realizado como parte de um processo seletivo para a empresa Inm
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Executar o teste](#executar-o-teste)
-- [Relatórios de testes](#relatorios-de-testes)
-- [Observações sobre o resultado dos testes](#observacoes-sobre-o-resultado-dos-testes)
+- [Relatórios de testes](#relatórios-de-testes)
+- [Observações sobre o resultado dos testes](#observações-sobre-o-resultado-dos-testes)
 - [Jenkins](#jenkins)
-- [Considerações Finais](#considerações)
+- [Considerações Finais](#considerações-finais)
 ---
 ## Tecnologias utilizadas
 ---
