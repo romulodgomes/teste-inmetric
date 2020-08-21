@@ -5,14 +5,14 @@ Esse projeto foi realizado como parte de um processo seletivo para a empresa Inm
 ---
 ## Índice
 
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Executar o teste](#-executar-o-projeto)
-- [Relatórios de testes](#-relatorios-de-testes)
-- [Observações sobre o resultado dos testes](#-observacoes)
-- [Jenkins](#-jenkins)
-- [Considerações Finais](#-consideracoes)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Executar o teste](#executar-o-projeto)
+- [Relatórios de testes](#relatorios-de-testes)
+- [Observações sobre o resultado dos testes](#observacoes)
+- [Jenkins](#jenkins)
+- [Considerações Finais](#consideracoes)
 ---
-## :tecnologias-utilizadas: Tecnologias utilizadas
+## Tecnologias utilizadas
 ---
 Para o desafio, foram ultilizadas as seguintes tecnologias:
 - Selenium Java
@@ -24,7 +24,7 @@ Vale ressaltar também o uso de algumas blibliotécas Java utilizadas para facil
 - Rest Assured (para efetur e validar a API RESP)
 - Cucumber Reporting (para criação de dashboard de resultado de testes no Jenkins)
 ---
-## :executar-o-projeto: Executar o teste
+## Executar o teste
 
 Para executar o projeto, via Maven, basta seguir no seu terminal predileto para o diretorio do projeto e executar o seguinte comando:
 ```bash
