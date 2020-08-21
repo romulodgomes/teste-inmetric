@@ -56,7 +56,7 @@ Devido a natureza do desafio, considerei 3 erros encontrados no sistema:
  
  Segue link com os print das configurações do Jenkin e do job criado:
  
- <a href="EvidenciasJenkins.rar" download>Download Imagem</a>
+ <a href="EvidenciasJenkins.rar" download>Download Imagens</a>
  
  ## Considerações Finais
  
