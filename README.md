@@ -6,11 +6,11 @@ Esse projeto foi realizado como parte de um processo seletivo para a empresa Inm
 ## Índice
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Executar o teste](#executar-o-projeto)
+- [Executar o teste](#executar-o-teste)
 - [Relatórios de testes](#relatorios-de-testes)
-- [Observações sobre o resultado dos testes](#observacoes)
+- [Observações sobre o resultado dos testes](#observacoes-sobre-o-resultado-dos-testes)
 - [Jenkins](#jenkins)
-- [Considerações Finais](#consideracoes)
+- [Considerações Finais](#considerações)
 ---
 ## Tecnologias utilizadas
 ---
@@ -65,6 +65,8 @@ Devido a natureza do desafio, considerei 3 erros encontrados no sistema:
  E o que falar desse Jenkins que mal conheço, mas já considero pakas?! Essa foi minha primeira experiencia configurando o Jenkins eu mesmo (nesse prazo curtinho), e ja consigo ver muitas possibilidades de uso!
  
  Em resumo, durante o desafio, fui me afiando e aprendendo. Espero conseguir mostrar meus conhecimentos para meus avaliadores. 
+ 
+ Obs: O projeto ficou um pouco pesado devido ao gif mostrando o Jenkins.
  
  Até mais!
  
