@@ -35,7 +35,7 @@ public class FuncionariosPO {
 	}
 	
 	public void verificarMensagemSucesso(String msg) {
-		assertTrue(mensagem.getText().contains(msg));
+		assertTrue("Mensagem de sucesso não foi apresentada, ou está incorreta. Mensagem esperada: "+ msg + "Mensagem atual: " + mensagem.getText(),mensagem.getText().contains(msg));
 	}
 
 	public void clickExcluirPrimeiroRegistro() {

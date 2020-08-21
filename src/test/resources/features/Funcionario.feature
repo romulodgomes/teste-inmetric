@@ -25,7 +25,7 @@ Funcionalidade: Funcionário
   	E eu preencho o campo Admissão com "21082020"
   	E eu clico no botão Enviar
   	Entao o sistema apresenta a listagem de funcionários
-  	E o sistema apresenta a mensagem de sucesso "SUCESSO! Usuário cadastrado com sucesso"
+  	E o sistema apresenta a mensagem de sucesso "SUCESSO! Funcionário cadastrado com sucesso"
   	
   	
  	Cenário: Excluir Funcionário
