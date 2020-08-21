@@ -7,9 +7,12 @@ Esse projeto foi realizado como parte de um processo seletivo para a empresa Inm
 
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Executar o teste](#-executar-o-projeto)
+- [Relatórios de testes](#-relatorios-de-testes)
+- [Observações sobre o resultado dos testes](#-observacoes)
 - [Jenkins](#-jenkins)
+- [Considerações Finais](#-consideracoes)
 ---
-## Tecnologias utilizadas
+## :tecnologias-utilizadas: Tecnologias utilizadas
 ---
 Para o desafio, foram ultilizadas as seguintes tecnologias:
 - Selenium Java
@@ -21,7 +24,7 @@ Vale ressaltar também o uso de algumas blibliotécas Java utilizadas para facil
 - Rest Assured (para efetur e validar a API RESP)
 - Cucumber Reporting (para criação de dashboard de resultado de testes no Jenkins)
 ---
-## Executar o teste
+## :executar-o-projeto: Executar o teste
 
 Para executar o projeto, via Maven, basta seguir no seu terminal predileto para o diretorio do projeto e executar o seguinte comando:
 ```bash
@@ -36,7 +39,7 @@ Caso deseje executar pela IDE de sua preferencia, executar o arquivo *RunCucumbe
  Ao executar os testes, os relatórios HTML estão sendo gravados dentro do diretorio *target/cucumber-reports/html/*, e um relatório em formato JSON está sendo gravado no diretório target/cucumber-reports/json. Nesse report HTML, está registrada a execução dos casaos de testes, juntamente a evidêncais de sucesso/falha no testes executados. O arquivo JSON é gerado para que seja utilizado para gerar um report um pouco mais sofisticado, que será anexado a execução do job no Jenkis (ver na seção sobre o Jenkins).  
  
 ---
-## Obsevaçoes sobre o resultado dos testes
+## Observações sobre o resultado dos testes
 
 Devido a natureza do desafio, considerei 3 erros encontrados no sistema:
  - Ao cadastrar um usuário, o sistema não apresentou mensagem de sucesso. Considerei um erro, pois ao cadastrar um funcionario, a mensagem foi apresentada. 
@@ -51,13 +54,13 @@ Devido a natureza do desafio, considerei 3 erros encontrados no sistema:
  
  <img src="jenkinsInmetrics.gif" alt="Gif mostrando como funciona o Job do Jenkins"/>
  
- Segue print das configurações do Jenkin e do job criado:
+ Segue link com os print das configurações do Jenkin e do job criado:
  
- <a href="EvidenciasJenkins.rar" download/> 
+ <a href="EvidenciasJenkins.rar" download>Download Imagem</a>
  
  ## Considerações Finais
  
- UFA! Deu trabalho! rsrs e valeu o trabalho. Com a algum tempo já não trabalhava com testes em interface, precisei de um tempo para recuperar a antiga prática, ainda mais no BDD, pois atualmente trabalho com algo proximo ao teste unitário. Foi um exercício interessante alongar os conhecimentos a algum tempo parado. 
+ *UFA!* Deu trabalho! rsrs e valeu o trabalho. Com a algum tempo já não trabalhava com testes em interface, precisei de um tempo para recuperar a antiga prática, ainda mais no BDD, pois atualmente trabalho com algo proximo ao teste unitário. Foi um exercício interessante alongar os conhecimentos a algum tempo parado. 
  
  E o que falar desse Jenkins que mal conheço, mas já considero pakas?! Essa foi minha primeira experiencia configurando o Jenkins eu mesmo (nesse prazo curtinho), e ja consigo ver muitas possibilidades de uso!
  
